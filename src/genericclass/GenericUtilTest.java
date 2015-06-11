@@ -15,7 +15,7 @@ import org.junit.Test;
 public class GenericUtilTest {
 
     /**
-     * Test 2.
+     * Test 1.
      */
     @Test
     public void testEven() {
